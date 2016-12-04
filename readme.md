@@ -12,6 +12,7 @@ View the live application of this on: https://laravel-interview.herokuapp.com/
 - Laravel
 - GuzzleHTTP
 - jQuery
+- Bootstrap
 
 
 ##LICENSE (?)
