@@ -1,9 +1,11 @@
 # Interview application
 =======================
 
-This is a simple application that I made for an interview for a startup company in Jakarta. I've done this application in less than 3 hours and I don't (and I won't) change any code inside id so you will see pure application that I made only in 3 hours.
+This is a simple application that I made for an interview for a startup company in Jakarta. I've done this application in less than 3 hours and I don't change any code inside it so you will see pure application that I made only in 3 hours.
 
 The functionality is simple: To show list of products and retrieve the product in homepage by AJAX.
+
+View the live application of this on: 
 
 ##Packages List
 ---------------
