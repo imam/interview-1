@@ -5,7 +5,7 @@ This is a simple application that I made for an interview for a startup company 
 
 The functionality is simple: To show list of products and retrieve the product in homepage by AJAX.
 
-View the live application of this on: 
+View the live application of this on: https://laravel-interview.herokuapp.com/
 
 ##Packages List
 ---------------
